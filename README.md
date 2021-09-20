@@ -1,3 +1,7 @@
+# Marjorie mejia
+
+Welcome to my website! here you will learn a little about me and projects I have been working on.g
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
